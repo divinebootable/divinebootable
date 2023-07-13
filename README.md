@@ -1,5 +1,5 @@
 ### # 💫 About Me:
-I'm currently working full time on a side project.<br>Solve algo problems every two days(depends on my speed) to keep the juices flowing.<br>I'm currently learning another framework(Spring) <br>Ask me about my job search<br>How to reach me: monyuydivinedev@gmail.com<br>Pronouns: He/His<br>Fun fact: I once left a paying job for an internship.
+I'm currently working full time on a side project.<br>Solve algo problems every two days(depends on my speed) to keep the juices flowing.<br>I'm currently learning another framework(Spring) <br>Ask me about my job search<br>How to reach me: monyuydivinedev@gmail.com<br>Pronouns: He/His<br>
 
 
 ## 🌐 Socials:
